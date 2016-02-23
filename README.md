@@ -1,5 +1,7 @@
 # gitbook-plugin-flowchart
 
+[![NPM](https://nodei.co/npm/gitbook-plugin-flowchart.png)](https://nodei.co/npm/gitbook-plugin-flowchart/)
+
 [flowchart.js](https://github.com/adrai/flowchart.js) plugin for [GitBook](https://github.com/GitbookIO/gitbook)
 
 ## Installation
