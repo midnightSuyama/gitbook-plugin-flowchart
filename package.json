@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-flowchart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "flowchart.js plugin for GitBook",
   "main": "index.js",
   "keywords": [
@@ -19,7 +19,6 @@
     "gitbook": "*"
   },
   "dependencies": {
-    "flowchart.js": "^1.6.2",
     "phantom": "^2.0.0",
     "q": "^1.4.1"
   }
