@@ -47,3 +47,9 @@ cond(yes)->io->e
 cond(no)->sub1(right)->op1
 {% endflowchart %}
 ```
+
+### Extend the width
+
+```
+{% flowchart width=770 %}
+```
